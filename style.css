@@ -1,4 +1,4 @@
- body {
+body {
             margin: 0;
             font-family: Arial, sans-serif;
             background-color: white;
@@ -226,23 +226,16 @@ background: radial-gradient(circle, rgba(243,229,181,1) 0%, rgba(252,232,25,255)
           }
 
         /* WhatsApp Icon Styles */
-        .whatsapp-icon {
-            margin-top: 20px;
-            font-size: 24px;
-            background-color: #25D366;
-            color: white;
-            border-radius: 50%;
-            padding: 15px;
-            cursor: pointer;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-
+     
         .whatsapp-icon:hover {
-            background-color: #128C7E;
+            background-color: #4aec86;
         }
         .floater {
             animation: floatUpDown 3s ease-in-out infinite, rotateImage 6s linear infinite;  /* Apply two animations */
             display: block;
+          }
+          .whatsapp-icon{
+            color: #fff;background-color: #25D366; width:100%; padding: 10px; box-sizing: border-box; border-radius: 50px; display: flex; justify-content: center; align-items: center; font-size: 1.5vw; 
           }
 
         /* Media Queries */
@@ -345,3 +338,4 @@ background: radial-gradient(circle, rgba(243,229,181,1) 0%, rgba(252,232,25,255)
        
 
         }
+    </style>
