@@ -238,7 +238,7 @@ background: radial-gradient(circle, rgba(243,229,181,1) 0%, rgba(252,232,25,255)
             color: #fff;background-color: #25D366; width:100%; padding: 10px; box-sizing: border-box; border-radius: 50px; display: flex; justify-content: center; align-items: center; font-size: 3.5vw; 
           } */
           .whatsapp-icons{
-            color: #fff;background-color: #25D366; margin-top: 2%; width:100%; padding: 10px; box-sizing: border-box; border-radius: 50px; display: flex; justify-content: center; align-items: center; font-size: 3.5vw; 
+            color: #fff;background-color: #0000FF; margin-top: 2%; width:100%; padding: 10px; box-sizing: border-box; border-radius: 50px; display: flex; justify-content: center; align-items: center; font-size: 3.5vw; 
           }
 
         /* Media Queries */
