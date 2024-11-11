@@ -228,7 +228,7 @@ background: radial-gradient(circle, rgba(243,229,181,1) 0%, rgba(252,232,25,255)
         /* WhatsApp Icon Styles */
      
         .whatsapp-icons:hover {
-            background-color: #4aec86;
+            background-color: #3333FF;
         }
         .floater {
             animation: floatUpDown 3s ease-in-out infinite, rotateImage 6s linear infinite;  /* Apply two animations */
